@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  event_source_id: 1
+  event_source_type: MyString
+  user_id: 1
+  version_id: 1
+
+two:
+  event_source_id: 1
+  event_source_type: MyString
+  user_id: 1
+  version_id: 1
